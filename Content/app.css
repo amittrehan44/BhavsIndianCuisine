@@ -234,7 +234,8 @@ header {
 
     #carousel img {
         min-height: 150px;
-        /* height: auto;*/
+         height: auto;
+         width: 100%;
         z-index: -1;
     }
 
